@@ -29,6 +29,9 @@ tmp/
 fixtures/embedded-truetype.pdf
 fixtures/type0-identity-h.pdf
 
+# Vercel's local project link (contains project/org ids).
+.vercel
+
 # ---- local configuration and secrets ---------------------------------------
 .env
 .env.*
@@ -73,3 +76,4 @@ Thumbs.db
 zzz-*
 __repro*
 *.pdf.orig
+.vercel

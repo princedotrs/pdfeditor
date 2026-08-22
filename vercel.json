@@ -5,7 +5,6 @@
   "outputDirectory": "dist",
   "headers": [
     {
-      "//": "pdf.js fetches these at runtime (CMaps, standard font data, ICC profiles, wasm decoders). Their filenames carry no content hash, so they must not be immutable — a pdfjs-dist upgrade has to be able to reach returning visitors. A day of freshness plus a week of stale-while-revalidate keeps them effectively local without pinning a stale copy.",
       "source": "/pdfjs/(.*)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=86400, stale-while-revalidate=604800" }
