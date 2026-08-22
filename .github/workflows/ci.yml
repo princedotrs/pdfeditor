@@ -16,9 +16,9 @@ jobs:
     name: Typecheck, test, build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           # The floor declared in package.json engines (pdfjs-dist needs
           # >=22.13). Testing on the floor rather than on whatever Vercel
@@ -64,10 +64,10 @@ jobs:
             echo "**Settings → Secrets and variables → Actions** to deploy from here."
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         if: env.VERCEL_TOKEN != ''
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         if: env.VERCEL_TOKEN != ''
         with:
           node-version: '22'
