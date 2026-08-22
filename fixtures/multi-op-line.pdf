@@ -1,0 +1,50 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<<  /Length 228 >>
+stream
+BT
+/FB 14 Tf
+72 700 Td
+(Invoice ) Tj
+/FR 14 Tf
+51.156 0 Td
+(number ) Tj
+/FB 14 Tf
+51.212 0 Td
+(INV-) Tj
+/FR 14 Tf
+26.880 0 Td
+(0042 is overdue) Tj
+ET
+BT
+/FR 10 Tf
+72 670 Td
+(Segment A ) Tj
+52.250 0 Td
+/FB 10 Tf
+(Segment B) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text] /Font << /FR << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >> /FB << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >> >> >> /Contents 3 0 R >>
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000401 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+716
+%%EOF

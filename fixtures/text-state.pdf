@@ -1,0 +1,70 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<<  /Length 687 >>
+stream
+BT
+/F1 16 Tf
+20 TL
+2 Tc
+6 Tw
+72 730 Td
+(Tc 2 and Tw 6 applied to this line) Tj
+T*
+(T-star moved down by TL 20) Tj
+(apostrophe operator also moves down) '
+12 0 (double-quote sets Tw and Tc then shows) "
+0 Tc 0 Tw
+T*
+60 Tz
+(Tz 60: horizontally condensed text) Tj
+T*
+140 Tz
+(Tz 140: horizontally expanded) Tj
+100 Tz
+T*
+(normal, then ) Tj
+7 Ts
+(raised) Tj
+-5 Ts
+(lowered) Tj
+0 Ts
+( back to baseline) Tj
+ET
+q
+2 0 0 2 60 250 cm
+BT /F1 12 Tf 0 40 Td (outer cm scale 2x) Tj ET
+q
+0.5 0 0 0.5 0 0 cm
+BT /F1 12 Tf 0 40 Td (inner cm scale 2x then 0.5x) Tj ET
+Q
+BT /F1 12 Tf 0 0 Td (after inner Q, still 2x) Tj ET
+Q
+BT
+/F1 14 Tf
+0.9659 0.2588 -0.2588 0.9659 72 150 Tm
+(Rotated 15 degrees by Tm) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text] /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >> >> >> /Contents 3 0 R >>
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000860 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1084
+%%EOF

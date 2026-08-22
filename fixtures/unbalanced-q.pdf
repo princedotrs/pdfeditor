@@ -1,0 +1,43 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<<  /Length 277 >>
+stream
+q
+1 0 0 1 0 0 cm
+BT /F1 12 Tf 72 740 Td (Before any clip, inside q #1.) Tj ET
+q
+60 560 300 160 re W n
+0.9 0.95 0.9 rg
+0 0 612 792 re f
+0 g
+BT
+/F1 14 Tf
+72 690 Td
+(Clipped text inside an unbalanced q.) Tj
+0 -22 Td
+(This line is clipped away on the right ---------------->) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text] /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >> >> >> /Contents 3 0 R >>
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000450 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+674
+%%EOF

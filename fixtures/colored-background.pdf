@@ -1,0 +1,57 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<<  /Length 524 >>
+stream
+0.09 0.11 0.20 rg
+0 0 612 792 re f
+0.16 0.19 0.30 rg
+48 480 516 220 re f
+0.96 0.96 0.92 rg
+BT
+/F1 26 Tf
+72 650 Td
+(Light text on a dark panel) Tj
+/F1 12 Tf
+0 -34 Td
+(Covering this line with a white rectangle would be visible.) Tj
+0 -18 Td
+(An editor must reuse the original fill colour when rewriting.) Tj
+ET
+0.98 0.72 0.22 rg
+BT
+/F1 14 Tf
+72 520 Td
+(Accent coloured line \(orange on dark\).) Tj
+ET
+0.94 0.94 0.90 rg
+48 120 516 120 re f
+0.10 0.10 0.12 rg
+BT
+/F1 14 Tf
+72 190 Td
+(Dark text on a light strip, same page.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text] /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >> >> >> /Contents 3 0 R >>
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000697 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+921
+%%EOF

@@ -1,0 +1,3 @@
+The files encodings.js, glyphlist.js and metrics.js in this directory are
+extracted verbatim from Mozilla's pdf.js and are licensed under the
+Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0

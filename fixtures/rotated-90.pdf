@@ -1,0 +1,41 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<<  /Length 184 >>
+stream
+0.85 0.1 0.1 rg
+72 700 20 20 re f
+0 g
+BT
+/F1 24 Tf
+1 0 0 1 100 700 Tm
+(ROTATE MARKER) Tj
+ET
+BT
+/F1 10 Tf
+1 0 0 1 100 680 Tm
+(baseline at user-space \(100, 700\) and \(100, 680\)) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Rotate 90 /Resources << /ProcSet [/PDF /Text] /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >> >> >> /Contents 3 0 R >>
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000357 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+592
+%%EOF

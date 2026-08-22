@@ -1,0 +1,75 @@
+# ---- dependencies ----------------------------------------------------------
+node_modules/
+.pnp/
+.pnp.*
+
+# ---- build output ----------------------------------------------------------
+dist/
+dist-ssr/
+build/
+*.tsbuildinfo
+
+# ---- generated at install/dev time -----------------------------------------
+# pdf.js ships CMaps, standard font data, ICC profiles and wasm decoders that
+# it fetches over HTTP at runtime. `npm run assets` copies them out of
+# node_modules; they are a build artifact, not source.
+public/pdfjs/
+
+# Scratch output: `npm run render-check` writes before/after comparisons here.
+tmp/
+
+# ---- test fixtures that embed a system font --------------------------------
+# Every other fixture is a hand-written PDF of about a kilobyte and is checked
+# in, because the test suite reads them directly. These two are different:
+# `npm run fixtures` embeds whatever TrueType file it finds on the machine
+# (Arial, on a Mac), which makes them ~760 KB each, non-deterministic across
+# machines, and a redistribution of a font that is not ours to redistribute.
+# Regenerate them locally with `npm run fixtures`; the tests that need them
+# skip cleanly when they are absent.
+fixtures/embedded-truetype.pdf
+fixtures/type0-identity-h.pdf
+
+# ---- local configuration and secrets ---------------------------------------
+.env
+.env.*
+!.env.example
+*.local
+
+# ---- logs ------------------------------------------------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ---- caches and coverage ---------------------------------------------------
+.vite/
+.cache/
+coverage/
+*.lcov
+.eslintcache
+
+# ---- editors and tooling ---------------------------------------------------
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- OS clutter ------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ---- scratch ---------------------------------------------------------------
+# Throwaway probes and repro scripts; keep them out of commits by convention.
+zzz-*
+__repro*
+*.pdf.orig
